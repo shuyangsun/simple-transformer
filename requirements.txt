@@ -1,2 +1,4 @@
 jupyterlab==4.0.2
 numpy==1.25.2
+torch==2.0.1
+torchdynamo==1.13.0
